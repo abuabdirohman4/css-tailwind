@@ -1,0 +1,22 @@
+{
+  "name": "tailwind-css",
+  "description": "Project for learn Tailwind CSS",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abuabdirohman4/fnd-26-tailwind-css.git"
+  },
+  "author": "Abu Abdirohman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abuabdirohman4/fnd-26-tailwind-css/issues"
+  },
+  "homepage": "https://github.com/abuabdirohman4/fnd-26-tailwind-css#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.0.11"
+  }
+}
